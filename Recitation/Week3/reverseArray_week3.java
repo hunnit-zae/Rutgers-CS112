@@ -22,6 +22,5 @@ public class reverseArray_week3{
 
     start++;
     end--;
-
     }
 }
